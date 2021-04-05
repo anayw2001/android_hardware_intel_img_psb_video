@@ -30,7 +30,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <memory.h>
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include "tng_picmgmt.h"
 #include "psb_drv_debug.h"
 

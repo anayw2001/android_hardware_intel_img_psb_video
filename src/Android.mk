@@ -48,7 +48,6 @@ LOCAL_C_INCLUDES := \
     $(call include-path-for, libhardware)/hardware \
     system/core/libsync/include \
     $(TARGET_OUT_HEADERS)/libttm \
-    $(TARGET_OUT_HEADERS)/libwsbm \
     $(TARGET_OUT_HEADERS)/libdrm \
     $(TARGET_OUT_HEADERS)/opengles \
     $(TARGET_OUT_HEADERS)/pvr \

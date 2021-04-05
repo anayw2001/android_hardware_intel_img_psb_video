@@ -39,7 +39,7 @@
 #include "psb_cmdbuf.h"
 #include <stdio.h>
 #include "psb_output.h"
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include "pnw_hostheader.h"
 
 #define ALIGN_TO(value, align) ((value + align - 1) & ~(align - 1))

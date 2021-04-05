@@ -43,10 +43,10 @@
 #include <stdarg.h>
 #include <time.h>
 #include <unistd.h>
-#include <wsbm/wsbm_pool.h>
-#include <wsbm/wsbm_manager.h>
-#include <wsbm/wsbm_util.h>
-#include <wsbm/wsbm_fencemgr.h>
+#include <wsbm_pool.h>
+#include <wsbm_manager.h>
+#include <wsbm_util.h>
+#include <wsbm_fencemgr.h>
 
 #ifdef ANROID
 #include <system/graphics.h>

@@ -36,7 +36,7 @@
 #ifndef BAYTRAIL
 #include <hal_public.h>
 #endif
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #define INIT_DRIVER_DATA    psb_driver_data_p driver_data = (psb_driver_data_p) ctx->pDriverData;
 #define CONFIG(id)  ((object_config_p) object_heap_lookup( &driver_data->config_heap, id ))

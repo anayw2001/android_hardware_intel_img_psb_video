@@ -31,8 +31,8 @@
 #define _PSB_WS_DRIVER_H_
 
 #include <linux/types.h>
-#include <wsbm/wsbm_util.h>
-#include <wsbm/wsbm_driver.h>
+#include <wsbm_util.h>
+#include <wsbm_driver.h>
 #ifdef ANDROID
 #include <drm/ttm/ttm_placement.h>
 #include <linux/psb_drm.h>

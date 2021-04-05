@@ -41,7 +41,7 @@
 #include <string.h>
 #include <stdarg.h>
 #include "psb_surface_ext.h"
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include "psb_drv_video.h"
 #include "psb_xrandr.h"
 #include <sys/types.h>

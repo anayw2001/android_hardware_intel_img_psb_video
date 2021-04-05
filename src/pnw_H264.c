@@ -49,7 +49,7 @@
 #include <stdint.h>
 #include <string.h>
 
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #define BUFFER(id)  ((object_buffer_p) object_heap_lookup( &ctx->obj_context->driver_data->buffer_heap, id ))
 

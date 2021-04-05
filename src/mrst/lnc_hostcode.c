@@ -39,7 +39,7 @@
 #include "psb_cmdbuf.h"
 #include <stdio.h>
 #include "psb_output.h"
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include "lnc_hostheader.h"
 #include "psb_drv_debug.h"
 

@@ -29,7 +29,7 @@
 #ifndef _VSP_CMDBUF_H_
 #define _VSP_CMDBUF_H_
 
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #include "psb_drv_video.h"
 #include "psb_buffer.h"

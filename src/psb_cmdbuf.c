@@ -57,10 +57,10 @@
 #ifndef BAYTRAIL
 #include "psb_ws_driver.h"
 #endif
-#include <wsbm/wsbm_pool.h>
-#include <wsbm/wsbm_manager.h>
-#include <wsbm/wsbm_util.h>
-#include <wsbm/wsbm_fencemgr.h>
+#include <wsbm_pool.h>
+#include <wsbm_manager.h>
+#include <wsbm_util.h>
+#include <wsbm_fencemgr.h>
 
 /*
  * Buffer layout:

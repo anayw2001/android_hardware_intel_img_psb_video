@@ -32,7 +32,7 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #include "psb_def.h"
 #include "psb_drv_debug.h"

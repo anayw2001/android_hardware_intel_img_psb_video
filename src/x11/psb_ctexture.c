@@ -35,7 +35,7 @@
 #include <va/va_backend.h>
 #include <va/va_dricommon.h>
 
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include <X11/Xlib.h>
 #include <X11/X.h>
 

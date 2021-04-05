@@ -33,7 +33,7 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #ifdef ANDROID
 #ifdef BAYTRAIL

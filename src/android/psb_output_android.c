@@ -44,7 +44,7 @@
 #endif
 #include "pnw_rotate.h"
 #include "psb_drv_debug.h"
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include <hardware.h>
 
 #define INIT_DRIVER_DATA    psb_driver_data_p driver_data = (psb_driver_data_p) ctx->pDriverData;

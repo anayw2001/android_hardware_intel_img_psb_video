@@ -43,7 +43,7 @@
 #include <string.h>
 #include <stdarg.h>
 #include "psb_surface_ext.h"
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #define INIT_DRIVER_DATA    psb_driver_data_p driver_data = (psb_driver_data_p) ctx->pDriverData
 #define INIT_OUTPUT_PRIV    psb_x11_output_p output = (psb_x11_output_p)(((psb_driver_data_p)ctx->pDriverData)->ws_priv)

@@ -66,7 +66,7 @@
 #define LOG_TAG "pvr_drv_video"
 #endif
 #include "hwdefs/dxva_fw_flags.h"
-#include <wsbm/wsbm_pool.h>
+#include <wsbm_pool.h>
 
 #ifdef __GNUC__
 # define __maybe_unused __attribute__((__unused__))

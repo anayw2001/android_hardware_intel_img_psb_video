@@ -46,7 +46,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 #include "psb_drv_debug.h"
 #include <string.h>
 #include <unistd.h>

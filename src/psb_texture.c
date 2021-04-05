@@ -43,7 +43,7 @@
 #include <va/va_drmcommon.h>
 #include "psb_drv_debug.h"
 
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #ifndef ANDROID
 #include <X11/Xlib.h>

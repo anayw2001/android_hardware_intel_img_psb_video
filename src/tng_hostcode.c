@@ -45,7 +45,7 @@
 #ifdef _TOPAZHP_PDUMP_
 #include "tng_trace.h"
 #endif
-#include <wsbm/wsbm_manager.h>
+#include <wsbm_manager.h>
 
 #include "hwdefs/topazhp_core_regs.h"
 #include "hwdefs/topazhp_multicore_regs_old.h"
